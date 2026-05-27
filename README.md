@@ -1,2 +1,2 @@
 # Entrega_BelandoGianluca
-Entrega para el curso QA de TalentoTech
+Entrega para el curso FrontEnd Js de TalentoTech
